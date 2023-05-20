@@ -17,7 +17,9 @@ install & rut > cmd & linux
 
 
 فایل را دانلود کنید سپس وارد دایرکتوری یا پوشه ان شوید سپس طبق کد های زیر برید جلو
+
 	python lib.py
+	
 	python main.py
 	
 	
