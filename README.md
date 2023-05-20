@@ -29,7 +29,8 @@ install & rut > cmd & linux
  خوشحال میشم حمایت کنید و زیر همین پست یه کامنت دمت گرم بندازی♥️🥲
 
 🕷Channel :  Proton_Hack.t.me
- (http://proton_hack.t.me/)🕸Group : ProtonsCH.t.me
+ (http://proton_hack.t.me/)
+ 🕸Group : ProtonsCH.t.me
 
 Good luck🫵
 Like❤️‍🔥
