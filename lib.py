@@ -1,0 +1,26 @@
+from time import sleep
+from os import system
+#install libs
+print("Start install libs")
+sleep(3)
+
+system("cls")
+system("clear")
+system("pip install threaded")
+system("cls")
+system("clear")
+system("pip install pip-api")
+system("cls")
+system("clear")
+system("pip install python-time")
+system("cls")
+system("clear")
+system("pip install inspect-it")
+system("cls")
+system("clear")
+system("pip install os-sys")
+system("cls")
+system("clear")
+system("pip install -U user_agent")
+system("cls")
+system("clear")
